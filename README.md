@@ -1,7 +1,7 @@
 # nothingphoneindex
 Here, you can find all the latest Updates, Guides, and Downloads for Nothing Phone.
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![GitHub](https://img.shields.io/badge/Creative%20Commons-CC_BY--NC--SA_4.0-EF9421.svg?style=for-the-badge&logo=Creative-Commons&logoColor=white)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
